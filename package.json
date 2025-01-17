@@ -1,6 +1,6 @@
 {
   "name": "@revale/capacitor-mixpanel",
-  "version": "1.0.11",
+  "version": "1.0.13",
   "description": "Capacitor plugin for Mixpanel",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",

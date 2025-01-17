@@ -21,6 +21,7 @@ public class MixpanelPlugin: CAPPlugin {
             optOutTrackingByDefault: optOutTrackingByDefault,
             serverURL: serverURL
         )
+        // Mixpanel.mainInstance().loggingEnabled = true
         instance.useIPAddressForGeoLocation = !disableIpCollection
     }
 
