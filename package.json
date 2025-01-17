@@ -1,6 +1,6 @@
 {
-  "name": "@houseninja/capacitor-mixpanel",
-  "version": "2.1.1",
+  "name": "@revale/capacitor-mixpanel",
+  "version": "1.0.0",
   "description": "Capacitor plugin for Mixpanel",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
@@ -11,7 +11,7 @@
     "android/build.gradle",
     "dist/",
     "ios/Plugin/",
-    "HouseninjaCapacitorMixpanel.podspec"
+    "RevaleCapacitorMixpanel.podspec"
   ],
   "author": "House Ninja Engineering <engineering@houseninja.co>",
   "license": "MIT",
